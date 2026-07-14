@@ -1,6 +1,6 @@
 # Sabrina's Game
 
-Code for the bachelor thesis *Sabrina's Game: From Unsampleability to Metaheuristic Optimisation*.
+Code for the bachelor thesis Sabrina's Game: From Unsampleability to Metaheuristic Optimisation*.
 
 Each cell of an N×N grid of integers is paired with one of its orthogonal neighbors. A pairing costs the absolute difference between the two cells, and the total objective value of a solution is the sum over all pairings. A solution is valid only if every cell is paired.
 
