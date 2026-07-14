@@ -8,7 +8,7 @@ Each cell of an N×N grid of integers is paired with one of its orthogonal neigh
 
 **Algorithms**
 - `random_algorithm.py`, `greedy.py` — constructive algorithms and their unstuck variants
-- `hill_climbing.py`, `simulated_annealing.py`, `plant_propagation.py` — metaheuristics, each with a flip and a hybrid version
+- `hill_climbing.py`, `simulated_annealing.py`, `plant_propagation.py` — metaheuristics, each with a flip and a hybrid mutation version
 
 **Experiments**
 - `run_random.py`, `run_greedy.py` — run the constructive algorithms on every grid
